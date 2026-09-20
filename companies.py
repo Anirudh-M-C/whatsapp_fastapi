@@ -1,7 +1,7 @@
 COMPANIES = {
     "1271850492686057": {
         "name": "Default Store",
-        "odoo_url": "http://localhost:8076",
+        "odoo_url": "http://host.docker.internal:8076",
         "odoo_db": "db12345",
         "odoo_username": "anirudhm394@gmail.com",
         "odoo_api_key_env": "ODOO_API_KEY",
